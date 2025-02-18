@@ -1,0 +1,10 @@
+holiday-calendar-backend/node_modules/
+holiday-caalendar/node_modules/
+
+holiday-calendar-backend/.env
+holiday-calendar/.env
+
+holiday-calendar/build/
+holiday-calendar-backend/dist/
+
+*.log

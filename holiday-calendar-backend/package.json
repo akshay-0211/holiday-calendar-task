@@ -1,0 +1,28 @@
+{
+  "name": "holiday-calendar-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --testTimeout=30000",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "mongoose": "^8.10.1",
+    "supertest": "^7.0.0"
+  }
+}
