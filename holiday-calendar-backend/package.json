@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "jest --testTimeout=30000",
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "echo 'No build step required'"
   },
   "keywords": [],
   "author": "",
